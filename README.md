@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YazeedAwad
 - 👀 I’m interested in Programming and Coding
--  - 🌱 I’m currently learning Python (py)
+- 🌱 I’m currently learning Python (py)
 - 💞️ I’m looking to collaborate with talented people 
 - 📫 How to reach me yazeedawad009@gmail.com
 
